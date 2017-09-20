@@ -4,7 +4,8 @@ public class Firstclass {
 		System.out.println("hii");
 		System.out.println("hello");
 		System.out.println("hello");
-		int a=9088;
+		int a=9088; 
+		int b;
 	}
 
 }
